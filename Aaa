@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>صفحة هبوط</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>مرحبا بك في صفحة الهبوط</h1>
+        <p>احصل على عرض خاص الآن!</p>
+    </header>
+
+    <section class="cta">
+        <h2>هل أنت جاهز للبدء؟</h2>
+        <button>اشترك الآن</button>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 جميع الحقوق محفوظة</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
